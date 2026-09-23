@@ -1,1 +1,2 @@
-# Merging_resolving
+# Merging\_resolving Adding developer A story
+
